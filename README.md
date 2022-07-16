@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=![Pre Word Android](https://user-images.githubusercontent.com/90290458/179355378-f22b283f-4ec9-427e-9f99-d2e105340fb6.png) title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ![test](https://user-images.githubusercontent.com/90290458/179355329-9f883cf0-971e-41d7-9ff5-0b6f4618dfb4.gif)
